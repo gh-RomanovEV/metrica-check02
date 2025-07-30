@@ -65,11 +65,10 @@ button {
 
 .hero__content {
   position: relative;
-  max-width: 1150px;
   height: 500px;
   background-image: url("../images/hero-bg.jpg");
   background-repeat: no-repeat;
-  background-position: center center;
+  background-position: 50%;
   background-size: cover;
 }
 
